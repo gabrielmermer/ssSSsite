@@ -27,8 +27,10 @@
           </div>
 
           <nav>
+	    <!--
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
+	    -->
           </nav>
         </header>
       </div>
@@ -42,10 +44,59 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
+
+						<div class="codeForm">
+							<form>
+								<p>Wpisz kod z punktu ponizej:</p>
+								<input type="text" id="code" name="fname"> <br>
+								<p id="failBox"></p>
+								<input id="clickMe" type="button" value="Sprawdź kod" onclick="checkCode();"/>  
+							</form>
+						</div>
+
+
+
+
+
         </footer>
       </div>
     </div>
 
-    {% include analytics.html %}
+
+				<!-- Global site tag (gtag.js) - Google Analytics -->
+				<script async src="https://www.googletagmanager.com/gtag/js?id=UA-41769002-3"></script>
+				<script>
+					window.dataLayer = window.dataLayer || [];
+					function gtag(){dataLayer.push(arguments);}
+					gtag('js', new Date());
+
+					gtag('config', 'UA-41769002-3');
+				</script>
+
+
+		<!-- including the custom redirect script directly -->
+	<script type="text/javascript">
+		function checkCode(){
+			var codeString = document.getElementById('code').value;
+			console.log(codeString);
+			if (codeString == "test") {
+				console.log("passed");	
+
+				document.getElementById('failBox').innerHTML = "";
+
+				window.location.replace("http://stackoverflow.com");
+
+				}
+				else {
+
+				document.getElementById('failBox').innerHTML = "kod jest niepoprawny!";
+				}
+				
+		}
+
+
+	</script>
+
+
   </body>
 </html>
