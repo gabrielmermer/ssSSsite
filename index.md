@@ -4,7 +4,7 @@ layout: default
 
 ![spacer.jpg](images/spacerCompressed.jpg)
 
-[Rozpocznij spacer!](http://www.google.com){: .btn}
+[Wybierz trasę i rozpocznij spacer](http://www.google.com){: .btn}
 
 Czy wiesz gdzie pod nosem Niemców Jan Bytnar „Rudy” nabazgrał szubienicę ze swastyką, która przetrwała do dnia dzisiejszego, a jego najlepszy przyjaciel Maciej Dawidowski „Alek” znak Polski Walczącej? W którym domu mieszkała legendarna harcerka i sanitariuszka „Mewa”? Dlaczego kamienica przy Noakowskiego 12 była ważna, a adres Rakowiecka 37 zmorą dla okupacyjnego harcerstwa? Wreszcie gdzie podpisano rozkaz o wybuchu Powstania Warszawskiego? 
 

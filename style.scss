@@ -302,12 +302,105 @@ footer {
   border-radius: 10px;
 }
 
+
 .btn:hover {
   background-color: #449D48;
   color: white !important;
 
 }
 
+
+.btn:active {
+  background-color: #449D48;
+  color: white !important;
+
+}
+
+
+.btn-blue {
+  background-color: #00bcef;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+.btn-blue:hover {
+  background-color: #0098c1;
+  color: white !important;
+
+}
+
+
+.btn-blue:active {
+  background-color: #0098c1;
+  color: white !important;
+
+}
+
+
+
+
+.btn-yellow {
+  background-color: #ffbc3e; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+.btn-yellow:hover {
+  background-color: #e5a937;
+  color: white !important;
+
+}
+
+
+.btn-blue:active {
+  background-color: #e5a937;
+  color: white !important;
+
+}
+
+.btn-orange {
+  background-color: #ff692e; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+
+.btn-orange:hover {
+  background-color: #e55e29;
+  color: white !important;
+
+}
+
+
+.btn-orange:active {
+  background-color: #e55e29;
+  color: white !important;
+
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
