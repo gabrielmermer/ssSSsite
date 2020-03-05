@@ -1,0 +1,37 @@
+I"s<h1 id="informacje">Informacje</h1>
+
+<ul>
+  <li>
+    <p>spacer odbywa się po trasie przez punkty związane z działalnością Szarych Szeregów</p>
+  </li>
+  <li>
+    <p>każdy punkt ma na sobie kartkę, na której jest jego specjalny kod w kolorze trasy</p>
+  </li>
+</ul>
+
+<p><img src="http://localhost:4000/images/kod.png" alt="kod" /></p>
+
+<p><em>(przykładowy kod)</em></p>
+<ul>
+  <li>kod ten trzeba wpisać w pole na dole strony</li>
+</ul>
+
+<p><img src="http://localhost:4000/images/miejsceNaKod.png" alt="kod" /></p>
+
+<ul>
+  <li>po wpisaniu kodu wyświetla się informacja o punkcie</li>
+</ul>
+
+<p><img src="http://localhost:4000/images/post.png" alt="kod" /></p>
+
+<ul>
+  <li>
+    <p>na dole informacji znajduje się adres następnego punktu</p>
+  </li>
+  <li>
+    <p>spacer rozpoczyna się od: <strong>Stanisława Noakowskiego 12</strong></p>
+  </li>
+</ul>
+
+<p><a href="https://www.google.com/maps/dir//Stanis%C5%82awa+Noakowskiego+12,+00-666+Warszawa/@52.2216263,20.9411986,12z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x471ecceeb0328b11:0x7497cae75b14bd64!2m2!1d21.0112381!2d52.221647!3e2" class="btn">Otwórz w Google Maps</a></p>
+:ET

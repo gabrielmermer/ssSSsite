@@ -1,0 +1,37 @@
+I"�<h1 id="informacje">Informacje</h1>
+
+<ul>
+  <li>
+    <p>spacer odbywa się po trasie przez punkty związane z działalnością Szarych Szeregów</p>
+  </li>
+  <li>
+    <p>każdy punkt ma na sobie kartkę, na której jest jego specjalny kod w kolorze trasy</p>
+  </li>
+</ul>
+
+<p><img src="http://localhost:4000/images/kod.png" alt="kod" /></p>
+
+<p><em>(powyższy kod nie jest elementem żadnej z tras)</em></p>
+<ul>
+  <li>kod ten trzeba wpisać w pole na dole strony</li>
+</ul>
+
+<p><img src="http://localhost:4000/images/miejsceNaKod.png" alt="kod" /></p>
+
+<ul>
+  <li>po wpisaniu kodu wyświetla się informacja o punkcie</li>
+</ul>
+
+<p><img src="http://localhost:4000/images/post.png" alt="kod" /></p>
+
+<ul>
+  <li>
+    <p>na dole informacji znajduje się adres następnego punktu</p>
+  </li>
+  <li>
+    <p>spacer rozpoczyna się od: <strong>ADRES</strong></p>
+  </li>
+</ul>
+
+<p><a href="http://www.google.com" class="btn">Otwórz w Google Maps</a></p>
+:ET
