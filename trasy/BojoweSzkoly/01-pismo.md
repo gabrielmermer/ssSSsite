@@ -53,3 +53,13 @@ Członkowie Grup Szturmowych zostali ukazani w książce Aleksandra Kamińskiego
 ![Kamienie na
 szaniec](https://upload.wikimedia.org/wikipedia/commons/5/5d/Ok%C5%82adka_pierwsze_
 wydanie_Kamienie_na_szaniec_1943.jpg)
+
+
+
+Następny adres: **aleja Jana Chrystiana Szucha 25**
+
+
+[Otwórz w Google Maps](https://www.google.com/maps/dir//Mauzoleum+Walki+i+M%C4%99cze%C5%84stwa,+aleja+Jana+Chrystiana+Szucha+25,+00-580+Warszawa/@52.2167862,21.0070407,14.5z/data=!4m9!4m8!1m0!1m5!1m1!1s0x471ecce6b088fed5:0xe03e513460c125b6!2m2!1d21.0231667!2d52.2178146!3e3){: .btn}
+
+
+

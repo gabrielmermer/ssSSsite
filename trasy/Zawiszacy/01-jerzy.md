@@ -26,3 +26,11 @@ Tego samego dnia na ulicy Nowy Świat przy Ordynackiej "Wróbel" został ogłusz
 
 Stefan Jadach zesłany 5 X 1943 do Oświęcimia również oddał tam życie. Natomiast wzięci jako zakładnicy mieszkańcy domów przy ulicy Różanej zostali zwolnieni.  
 Wywiad AK ustalił, że agentem, który aresztował "Wróbla", był funkcjonariusz Kripo Władysław Urbański, zamieszkały przy ulicy Madalińskiego, i zapewne znający Jurka z widzenia. Ciążył już na nim wyrok śmierci Cywilnego Sądu Specjalnego, a teraz obciążała go ponadto śmierć młodego chłopca. W tej sytuacji dowódca niedawno powstałej 2. kompanii batalionu "Zośka" **"Andrzej Morro"** wydał drużynie **"Laudańskiego"** (w skład której wchodził "Wróbel") rozkaz śledzenia Urbańskiego i przygotowania jego likwidacji. Dwie zorganizowane przez harcerzy zasadzki nie przyniosły rezultatu, gdyż policjant chodził do pracy stale inną trasą; na przygotowanie bardziej eksponowanej akcji dowódca kompanii nie wyraził zgody, bojąc się dużych strat w ludziach.
+
+Następny adres: **Ligocka 3**
+
+
+[Otwórz w Google Maps](https://www.google.com/maps/dir//Ligocka+3,+02-556+Warszawa/@52.2041173,21.0112519,17z/data=!4m17!1m7!3m6!1s0x471eccd09e24471f:0xb214bd083e07e77a!2sLigocka+3,+02-556+Warszawa!3b1!8m2!3d52.2041173!4d21.0112519!4m8!1m0!1m5!1m1!1s0x471eccd09e24471f:0xb214bd083e07e77a!2m2!1d21.0112519!2d52.2041173!3e3){: .btn}
+
+
+

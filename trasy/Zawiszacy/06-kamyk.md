@@ -42,3 +42,13 @@ Zmarł 15 marca 1978. Został pochowany na Cmentarzu Wojskowym na Powązkach w W
 
 5 maja 1991, za pomoc udzieloną w czasie okupacji członkom organizacji harcerzy żydowskich i żydowskiego ruchu oporu, Instytut Jad Waszem pośmiertnie nadał Aleksandrowi Kamińskiemu tytuł Sprawiedliwego Wśród Narodów Świata.
 22 lutego 2008 w Dniu Myśli Braterskiej, podczas uroczystości związanych z objęciem Honorowym Protektoratem 5 organizacji harcerskich, Prezydent RP Lech Kaczyński odznaczył pośmiertnie Aleksandra Kamińskiego Krzyżem Komandorskim Orderu Odrodzenia Polski.
+
+
+
+Następny adres: **Pomnik Aleksandra Kamińskiego "Kamyka"**
+
+
+[Otwórz w Google Maps](https://www.google.com/maps/dir//Pomnik+Aleksandra+Kami%C5%84skiego+%22Kamyka%22,+Warsaw/@52.2105677,21.0251528,16z/data=!4m9!4m8!1m0!1m5!1m1!1s0x471ecd200ffb6227:0x136c9f7f27f13a55!2m2!1d21.028578!2d52.2114463!3e3){: .btn}
+
+
+

@@ -16,3 +16,11 @@ Pamiątkowy pomnik w kwaterze "na Łączce"
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/e/e0/Kwatera_na_laczce_pomnik.jpg)
 
 W **2016 roku** Ministerstwo Sprawiedliwości podjęło decyzję o zamknięciu więzienia i stworzeniu tam muzeum.
+
+
+Następny adres: ** Sushi Bar Plac Unii 1 **
+
+
+[Otwórz w Google Maps](https://www.google.com/maps/dir//''/@52.2081926,20.9932724,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x471eccde02025e2b:0x600d0c8fc88233ba!2m2!1d21.021045!2d52.2133129){: .btn}
+
+

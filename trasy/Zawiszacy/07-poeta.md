@@ -16,3 +16,14 @@ Brał także czynny udział w wielu akcjach organizowanych przez Polskie Podziem
 W czasie okupacji Baczyńskiemu udało się wydać cztery tomiki wierszy - w 1940 roku ukazały się drukiem "Zamknięty echem" i "Dwie miłości", następnie w 1942 roku "Wiersze wybrane" i wreszcie w 1944 roku "Arkusz poetycki Nr 1". Jako poeta reprezentował nurt pokolenia Kolumbów, do którego należeli również Tadeusz Gajcy czy Tadeusz Borowski. Pod względem stylistycznym Baczyński często używał podmiotu zbiorowego, liczby mnogiej, odwołując się do wartości uniwersalnych. Nie stronił od symboliki i katastroficznej wizji świata. W jego utworach pełno metafor, barwnych epitetów. Dominuje tematyka przygnębiająca, co było odzwierciedleniem stanu psychiki młodego poety okaleczonego wojną. W sumie wydał ponad 500 wierszy, zachowały się również jego opowiadania oraz poematy. Do najważniejszych utworów Baczyńskiego należą: "Elegia o chłopcu polskim", "Deszcze", "Z głową na karabinie" czy "Na moście w Avinion". Stał się inspiracją dla wielu twórców kolejnych pokoleń. Do jego utworów odwoływała się chociażby Wisława Szymborska. Twórczość Baczyńskiego obecna jest także w muzyce - zespół Budka Suflera wylansował przebój zatytułowany "Sur le pont d'Avignon".
 
 ![Tablica upamiętniająca Krzysztofa Kamila Baczyńskiego na Pałacu Blanka](https://upload.wikimedia.org/wikipedia/commons/9/97/Tablica_Krzysztof_Kamil_Baczy%C5%84ski_pa%C5%82ac_Blanka_01.JPG)
+
+
+
+
+Następny adres: **Bagatela 10**
+
+
+[Otwórz w Google Maps](https://www.google.com/maps/dir//Bagatela+10,+00-585+Warszawa/@52.2137695,20.9530995,12z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x471ecce0bc46c809:0x143d65fd5d280327!2m2!1d21.0231387!2d52.2137902!3e3){: .btn}
+
+
+

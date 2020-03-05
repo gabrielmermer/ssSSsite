@@ -18,3 +18,13 @@ Korespondencja była ograniczona do 25 słów i od początku podlegała cenzurze
 
 We wrześniu 1944 r. Powstańcza Poczta Harcerska, została wraz z całym personelem wcielona do Armii Krajowej i od tego czasu napis “Poczta Harcerska” został zastąpiony napisem “Poczta Polowa”. W tym też miesiącu ukazały się znaczki Poczty Polowej w pięciu kolorach dla pięciu dzielnic Warszawy. Działalność Poczty Polowej została zakończona w dniu 3 października, dniu kapitulacji Warszawy. W czasie 63 dni powstania, pocztowcy w harcerskich mundurach przenieśli ok. 200 tys. przesyłek. Wielu z nich zginęło lub zostało rannych.
 ![Listonoszki Poczty Polowej](https://upload.wikimedia.org/wikipedia/commons/9/98/Harcerska_Poczta_Polowa_Zawiszacy_listonoszki.jpg)
+
+
+
+Następny adres: **Podchorążych 49**
+
+
+[Otwórz w Google Maps](https://www.google.com/maps/dir//Podchor%C4%85%C5%BCych+49,+00-721+Warszawa/@52.2088482,21.0367362,15.75z/data=!4m9!4m8!1m0!1m5!1m1!1s0x471ecd2282d66bc5:0x79d65e12a4f8768f!2m2!1d21.0405555!2d52.2095126!3e3){: .btn}
+
+
+

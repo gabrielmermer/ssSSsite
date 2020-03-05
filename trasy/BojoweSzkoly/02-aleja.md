@@ -17,3 +17,13 @@ Przesłuchania w tym areszcie były największą udręką dla więźniów. Były
 Wspomnienia Jerzego Kowalewskiego z przesłuchania: https://www.youtube.com/watch?v=iOap5uq46Ow
 **Wnętrze celi izolacyjnej**
 ![Izolatka](https://upload.wikimedia.org/wikipedia/commons/3/30/Mauzoleum_Walki_i_M%C4%99cze%C5%84stwa_al._Szucha_11.JPG)
+
+
+
+
+Następny adres: **Idzikowskiego 25**
+
+
+[Otwórz w Google Maps](https://www.google.com/maps/dir//Idzikowskiego+25,+02-704+Warszawa/@52.1861647,21.0231973,16z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x471932cdbe38d01b:0x73336870d6c2fb56!2m2!1d21.0275747!2d52.1861648!3e3){: .btn}
+
+

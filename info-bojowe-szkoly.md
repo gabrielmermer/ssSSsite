@@ -1,23 +1,22 @@
 ---
 layout: default
 ---
-
 # Informacje
 
 * spacer odbywa się po trasie przez punkty związane z działalnością Szarych Szeregów
 
 * każdy punkt ma na sobie kartkę, na której jest jego specjalny kod w kolorze trasy
 
-![kod]({{site.url}}/images/kod.png)
+![kod](https://i.postimg.cc/52SSKQQ2/kod.png)
 
 _(przykładowy kod)_
 * kod ten trzeba wpisać w pole na dole strony
 
-![kod]({{site.url}}/images/miejsceNaKod.png)
+![kod](https://i.postimg.cc/KY4371nV/miejsce-Na-Kod.png)
 
 * po wpisaniu kodu wyświetla się informacja o punkcie
 
-![kod]({{site.url}}/images/post.png)
+![kod](https://i.postimg.cc/Pr2q6trk/post.png)
 
 * na dole informacji znajduje się adres następnego punktu
 

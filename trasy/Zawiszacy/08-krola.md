@@ -31,3 +31,7 @@ W dwudziestoleciu międzywojennym i podczas drugiej wojny światowej, kiedy w Ba
 Po wojnie do grupy absolwentów dołączyli m.in. historyk i członek PAN prof. Antoni Mączak, aktor Daniel Olbrychski, reżyserka Agnieszka Holland, wokalistka jazzowa Ewa Bem, prof. Magdalena Środa, prezenterka Grażyna Torbicka, reżyser teatralny Jan Klata oraz wielu innych naukowców i artystów.
 
 Obok wychowanków, ważną częścią historii Batorego są jego nauczyciele i dyrektorzy. Szkoła może pochwalić się, że w jej murach wykładali min. historycy Stanisław Arnold i Jan Żaryn, polonista Stanisław Młodożeniec, fizycy Stanisław Malec i Grażyna Lipińska, geografowie Gustaw Wuttke i Lechosław Domański, Tadeusz Grzebieniowski.
+
+
+
+[Sprawdź swoją wiedzę!](){: .btn}

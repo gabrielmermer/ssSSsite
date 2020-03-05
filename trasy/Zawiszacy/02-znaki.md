@@ -98,3 +98,13 @@ rzeźby Kościuszki;
 podrobionego przez komórkę AKGońca Krakowskiego (Organizacja 
 Harcerek).
 
+
+
+
+Następny adres: **Al. Niepodległości 159**
+
+
+[Otwórz w Google Maps](https://www.google.com/maps/dir//aleja+Niepodleg%C5%82o%C5%9Bci+159,+02-555+Warszawa/@52.2063258,21.0083219,13z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x471eccdabf444221:0x9180cd238e38f938!2m2!1d21.0083219!2d52.2063258!3e3){: .btn}
+
+
+

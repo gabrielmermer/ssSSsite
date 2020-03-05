@@ -21,3 +21,14 @@ Jan Bytnar zmarł w szpitalu na Płockiej w wyniku poniesionych obrażeń 30 mar
 26 września 2009 roku za wybitne zasługi dla niepodległości Rzeczypospolitej Polskiej Jan Bytnar został pośmiertnie odznaczony Krzyżem Komandorskim z Gwiazdą Orderu Odrodzenia Polski.
 
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/9/91/Gr%C3%B3b_Jana_Bytnara_i_Alka_Dawidowskiego_na_Cmentarzu_Wojskowym_na_Pow%C4%85zkach.jpg)
+
+
+
+
+Następny adres: **Narbutta 3**
+
+
+[Otwórz w Google Maps](https://www.google.com/maps/dir//Ludwika+Narbutta+3,+02-564+Warszawa/@52.2070271,20.9511399,12z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x471eccd8c4d181b5:0xa664f1c73875996!2m2!1d21.0211791!2d52.2070478!3e3){: .btn}
+
+
+

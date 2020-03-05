@@ -20,3 +20,7 @@ Straty wojsk polskich wyniosły ok. 16 tys. zabitych i zaginionych, 20 tys. rann
 
 ### Tadeusz Bór-Komorowski
 https://pl.wikipedia.org/wiki/Tadeusz_Komorowski#/media/Plik:Tadeusz_Bor_Komorowski.jpg
+
+
+
+[Sprawdź swoją wiedzę!](){: .btn}
