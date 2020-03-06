@@ -1,0 +1,10 @@
+I"<div class="codeForm">
+<form>
+<p>Wpisz kod z poprzedniego punktu:</p>
+<input type="text" id="lastPoint" name="fname" /> <br />
+<p id="failBox"></p>
+<input class="btn" id="clickMe" type="button" value="Sprawdź kod" onclick="checkLastPoint();" />  
+</form>
+</div>
+
+:ET

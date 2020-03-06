@@ -14,7 +14,7 @@
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
-	
+
 
   <body>
     <div class="wrapper-masthead">
@@ -51,7 +51,7 @@
 								<p>Wpisz kod z punktu ponizej:</p>
 								<input type="text" id="code" name="fname"> <br>
 								<p id="failBox"></p>
-								<input class=btn id="clickMe" type="button" value="Sprawdź kod" onclick="checkCode();"/>  
+								<input class=btn id="clickMe" type="button" value="Sprawdź kod" onclick="checkCode();"/>
 							</form>
 						</div>
 
@@ -80,19 +80,37 @@
 		function checkCode(){
 			var codeString = document.getElementById('code').value;
 			console.log(codeString);
-			if (codeString == "test") {
-				console.log("passed");	
+			if (codeString == "jerzy") {
+				console.log("passed");
 
 				document.getElementById('failBox').innerHTML = "";
 
-				window.location.replace("http://stackoverflow.com");
+				window.location.replace("http://spacer.mokotow.zhp.pl/trasy/Zawiszacy/01-jerzy");
 
 				}
-				else {
 
-				document.getElementById('failBox').innerHTML = "kod jest niepoprawny!";
-				}
-				
+        else if (codeString == "znaki" ) {
+
+          document.getElementById('failBox').innerHTML = "";
+
+          window.location.replace("http://spacer.mokotow.zhp.pl/trasy/Zawiszacy/02-znaki");
+
+
+       }
+
+				else if (codeString == "wlosy" ) {
+
+          document.getElementById('failBox').innerHTML = "";
+
+          window.location.replace("http://spacer.mokotow.zhp.pl/trasy/Zawiszacy/03-wlosy");
+
+
+       }
+
+       else {
+         document.getElementById('failBox').innerHTML = "kod jest niepoprawny!";
+       }
+
 		}
 
 
