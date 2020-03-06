@@ -26,3 +26,9 @@ layout: default
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDM3NTEzNDIxLC0zODc4ODk5MDRdfQ==
 -->
+
+
+Następny adres: **Aviator Monument, Wawelska**
+
+
+[Otwórz w Google Maps](https://www.google.com/maps/dir//Aviator+Monument,+Wawelska,+02-034+Warszawa/@52.2183269,20.9875749,16.25z/data=!4m9!4m8!1m0!1m5!1m1!1s0x471eccbe826e8c3d:0x8dd74912f3871f0b!2m2!1d20.9883439!2d52.2163414!3e2){: .btn}

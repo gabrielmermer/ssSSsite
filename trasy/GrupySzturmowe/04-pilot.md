@@ -27,3 +27,8 @@ do domów dziesiątki zapóźnionych przechodniów&quot;.
 eyJoaXN0b3J5IjpbLTEzNjkwMTgyNjEsLTkyMjM1MDk4NywtMT
 c1MTQ1OTc4N119
 -->
+
+Następny adres: **aleja Jana Chrystiana Szucha 25**
+
+
+[Otwórz w Google Maps](https://www.google.com/maps/dir//aleja+Jana+Chrystiana+Szucha+25,+Warszawa/@52.2178034,21.0188147,16z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x471ecce6b088fed5:0x8b4deffce514905c!2m2!1d21.0232028!2d52.2178035!3e2){: .btn}

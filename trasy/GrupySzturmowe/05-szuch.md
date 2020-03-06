@@ -26,4 +26,9 @@ layout: default
 **Jan Bytnar ps. "Rudy"**- podharcmistrz, członek Szarych Szeregów, dowódca hufca „Południe” Grup Szturmowych, jeden z bohaterów książki Aleksandra Kamińskiego Kamienie na szaniec.
 ![Znalezione obrazy dla zapytania: jan bytnar](https://upload.wikimedia.org/wikipedia/commons/f/fb/Jan_Bytnar.jpg)
 ## Ilość osób zamordowanych w gmachu na szucha
-Trudno jest dokładnie ustalić liczbę ofiar gmachu w alei Szucha 25, większość dokumentów i akt Gestapo została bowiem spalona w 1944 roku w jednym z pokoi gmachu. Rozmiar popełnionej zbrodni, według powojennych ustaleń Okręgowej Komisji Badania Zbrodni Niemieckich w Warszawie z czerwca 1946 roku, obrazuje ilość prochów i kości ludzkich odnalezionych w piwnicach budynków przy al. Szucha, które ważyły ok. 5,5 tony
+Trudno jest dokładnie ustalić liczbę ofiar gmachu w alei Szucha 25, większość dokumentów i akt Gestapo została bowiem spalona w 1944 roku w jednym z pokoi gmachu. Rozmiar popełnionej zbrodni, według powojennych ustaleń Okręgowej Komisji Badania Zbrodni Niemieckich w Warszawie z czerwca 1946 roku, obrazuje ilość prochów i kości ludzkich odnalezionych w piwnicach budynków przy al. Szucha, które ważyły ok. 5,5 tony.
+
+Następny adres: **Fryderyka Chopina 1**
+
+
+[Otwórz w Google Maps](https://www.google.com/maps/dir//52.2229128,+21.0241485/@52.2230464,21.0236653,19z/data=!4m7!4m6!1m0!1m3!2m2!1d21.0241485!2d52.2229128!3e2){: .btn}

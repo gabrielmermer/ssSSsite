@@ -17,3 +17,8 @@ W 2016 w rogatce wschodniej otwarto Muzeum Sue Ryder.
 
 ![rogatki]({{site.url}}/images/rogatki1.png)
 ![rogatki]({{site.url}}/images/rogatki2.png)
+
+Następny adres: **Rogatki Mokotowskie, Budynek Wschodni, plac Unii Lubelskiej 2**
+
+
+[Otwórz w Google Maps](https://www.google.com/maps/dir//Rogatki+Mokotowskie,+Budynek+Wschodni,+plac+Unii+Lubelskiej+2,+Warszawa/@52.2129712,20.9495537,12z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x471eccde1ce554a7:0xfa83261f2b54c373!2m2!1d21.0197647!2d52.212992!3e2){: .btn}

@@ -21,6 +21,6 @@ _(przykładowy kod)_
 
 * na dole informacji znajduje się adres następnego punktu
 
-* spacer rozpoczyna się od: **Aleja Niepodległości róg Antoniego Edwarda Odyńca**
+* spacer rozpoczyna się od: **Racławicka 30**
 
-[Otwórz w Google Maps](https://www.google.com/maps/dir//52.1961175,+21.0132779/@52.1963192,20.9433766,12z/data=!3m1!4b1!4m7!4m6!1m0!1m3!2m2!1d21.0132779!2d52.1961175!3e2){: .btn}
+[Otwórz w Google Maps](https://www.google.com/maps/dir//Pomnik+Bataljonu+Baszta,+Rac%C5%82awicka+30,+00-001+Warszawa/@52.1986827,21.0086501,16.25z/data=!4m9!4m8!1m0!1m5!1m1!1s0x471eccd5d4ca25f5:0x734c592f7580d9c1!2m2!1d21.0129799!2d52.1981121!3e2){: .btn}
