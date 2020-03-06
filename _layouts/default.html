@@ -47,7 +47,7 @@
           {% include svg-icons.html %}
 
 						<div class="codeForm">
-							<form>
+							<form onkeydown="return event.key != 'Enter';">
 								<p>Wpisz kod z punktu ponizej:</p>
 								<input type="text" id="code" name="fname"> <br>
 								<p id="failBox"></p>
@@ -79,7 +79,9 @@
 	<script type="text/javascript">
 		function checkCode(){
 			var codeString = document.getElementById('code').value;
+      codeString = codeString.toLowerCase();
 			console.log(codeString);
+      // Zawiszacy:
 			if (codeString == "jerzy") {
 				console.log("passed");
 
@@ -87,7 +89,7 @@
 
 				window.location.replace("http://spacer.mokotow.zhp.pl/trasy/Zawiszacy/01-jerzy");
 
-				}
+          }
 
         else if (codeString == "znaki" ) {
 
@@ -106,6 +108,196 @@
 
 
        }
+
+       else if (codeString == "bomba" ) {
+
+         document.getElementById('failBox').innerHTML = "";
+
+         window.location.replace("http://spacer.mokotow.zhp.pl/trasy/Zawiszacy/04-bomba");
+
+
+       }
+      else if (codeString == "listy" ) {
+
+        document.getElementById('failBox').innerHTML = "";
+
+        window.location.replace("http://spacer.mokotow.zhp.pl/trasy/Zawiszacy/05-listy");
+
+
+      }
+     else if (codeString == "kamyk" ) {
+
+       document.getElementById('failBox').innerHTML = "";
+
+       window.location.replace("http://spacer.mokotow.zhp.pl/trasy/Zawiszacy/06-kamyk");
+
+
+     }
+    else if (codeString == "poeta" ) {
+
+      document.getElementById('failBox').innerHTML = "";
+
+      window.location.replace("http://spacer.mokotow.zhp.pl/trasy/Zawiszacy/07-poeta");
+
+
+    }
+   else if (codeString == "krola" ) {
+
+     document.getElementById('failBox').innerHTML = "";
+
+     window.location.replace("http://spacer.mokotow.zhp.pl/trasy/Zawiszacy/08-krola");
+
+
+  }
+
+  // Bojowe Szkoły
+
+  else if (codeString == "pismo" ) {
+
+    document.getElementById('failBox').innerHTML = "";
+
+    window.location.replace("http://spacer.mokotow.zhp.pl/trasy/BojoweSzkoly/01-pismo");
+
+
+ }
+
+ else if (codeString == "aleja" ) {
+
+   document.getElementById('failBox').innerHTML = "";
+
+   window.location.replace("http://spacer.mokotow.zhp.pl/trasy/BojoweSzkoly/02-aleja");
+
+
+}
+
+else if (codeString == "pomoc" ) {
+
+  document.getElementById('failBox').innerHTML = "";
+
+  window.location.replace("http://spacer.mokotow.zhp.pl/trasy/BojoweSzkoly/03-pomoc");
+
+
+}
+
+else if (codeString == "straz" ) {
+
+  document.getElementById('failBox').innerHTML = "";
+
+  window.location.replace("http://spacer.mokotow.zhp.pl/trasy/BojoweSzkoly/04-straz");
+
+
+}
+
+else if (codeString == "pioro" ) {
+
+  document.getElementById('failBox').innerHTML = "";
+
+  window.location.replace("http://spacer.mokotow.zhp.pl/trasy/BojoweSzkoly/05-pioro");
+
+
+}
+
+else if (codeString == "walka" ) {
+
+  document.getElementById('failBox').innerHTML = "";
+
+  window.location.replace("http://spacer.mokotow.zhp.pl/trasy/BojoweSzkoly/06-walka");
+
+
+}
+
+// Grupy Szturmowe:
+
+else if (codeString == "sztab" ) {
+
+  document.getElementById('failBox').innerHTML = "";
+
+  window.location.replace("http://spacer.mokotow.zhp.pl/trasy/GrupySzturmowe/01-sztab");
+
+
+}
+
+else if (codeString == "kanal" ) {
+
+  document.getElementById('failBox').innerHTML = "";
+
+  window.location.replace("http://spacer.mokotow.zhp.pl/trasy/GrupySzturmowe/02-kanal");
+
+
+}
+
+else if (codeString == "skraj" ) {
+
+  document.getElementById('failBox').innerHTML = "";
+
+  window.location.replace("http://spacer.mokotow.zhp.pl/trasy/GrupySzturmowe/03-skraj");
+
+
+}
+
+else if (codeString == "pilot" ) {
+
+  document.getElementById('failBox').innerHTML = "";
+
+  window.location.replace("http://spacer.mokotow.zhp.pl/trasy/GrupySzturmowe/04-pilot");
+
+
+}
+
+else if (codeString == "szuch" ) {
+
+  document.getElementById('failBox').innerHTML = "";
+
+  window.location.replace("http://spacer.mokotow.zhp.pl/trasy/GrupySzturmowe/05-szuch");
+
+
+}
+
+else if (codeString == "franz" ) {
+
+  document.getElementById('failBox').innerHTML = "";
+
+  window.location.replace("http://spacer.mokotow.zhp.pl/trasy/GrupySzturmowe/06-franz");
+
+
+}
+
+else if (codeString == "olimp" ) {
+
+  document.getElementById('failBox').innerHTML = "";
+
+  window.location.replace("http://spacer.mokotow.zhp.pl/trasy/GrupySzturmowe/07-olimp");
+
+
+}
+
+else if (codeString == "zoska" ) {
+
+  document.getElementById('failBox').innerHTML = "";
+
+  window.location.replace("http://spacer.mokotow.zhp.pl/trasy/GrupySzturmowe/08-zoska");
+
+
+}
+
+else if (codeString == "cokol" ) {
+
+  document.getElementById('failBox').innerHTML = "";
+
+  window.location.replace("http://spacer.mokotow.zhp.pl/trasy/GrupySzturmowe/08-cokol");
+
+
+}
+
+else if (codeString == "getto" ) {
+
+  document.getElementById('failBox').innerHTML = "";
+
+  window.location.replace("http://spacer.mokotow.zhp.pl/trasy/GrupySzturmowe/10-getto");
+
+
+}
+
 
        else {
          document.getElementById('failBox').innerHTML = "kod jest niepoprawny!";

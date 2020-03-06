@@ -3,7 +3,11 @@ layout: default
 ---
 
 # Krzysztof Kamil Baczyński
+
+
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/5/59/Krzysztof_Kamil_Baczy%C5%84ski_-_Maturzysta.jpg)
+
+
 **Krzysztof Kamil Baczyński** (1921-1944) - polski poeta czasu wojny, podchorąży Armii Krajowej, podharcmistrz  Szarych Szeregów, jeden z najwybitniejszych przedstawicieli _Pokolenia Kolumbów_. Brał udział w Powstaniu Warszawskim. Używał pseudonimów: "Jan Bugaj", "Krzysztof Zieliński", "Piotr Smugosz", "Emil" i "Jan Krzyski".
 
 Był synem krytyka literackiego Stanisława Baczyńskiego i nauczycielki Stefanii Zieleńczyk. Ojciec był również w przeszłości działaczem Legionów Polskich, a w późniejszym okresie służył jeszcze w Wojsku Polskim. Zarówno Stanisław, jak i Stefania wpajali młodemu Krzysztofowi miłość do ojczyzny i uczyli go patriotyzmu od najmłodszych lat. Niestety, w niedługim czasie po urodzeniu Krzysztofa jego rodzice rozstali się. Krzysztof Kamil Baczyński urodził się i mieszkał początkowo w kamienicy przy ul. Bagatela 10. Był chorowity – w dzieciństwie chorował na astmę, miał słabe serce, był stale zagrożony gruźlicą. Od 1931 uczył się w Państwowym Gimnazjum im. Stefana Batorego, a następnie w tej samej szkole w 1937 rozpoczął naukę w nowo utworzonym dwuletnim liceum ogólnokształcącym, w klasie o profilu humanistycznym.   Podczas pobytu w szkole średniej związał się z lewicową organizacją młodzieżową "Spartakus". Używał wtedy pseudonimu "Emil". Z tego też okresu pochodzi pierwszy znany jego wiersz - "Wypadek przy pracy" (1936). W maju 1939 otrzymał świadectwo dojrzałości.
@@ -24,6 +28,3 @@ Następny adres: **Bagatela 10**
 
 
 [Otwórz w Google Maps](https://www.google.com/maps/dir//Bagatela+10,+00-585+Warszawa/@52.2137695,20.9530995,12z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x471ecce0bc46c809:0x143d65fd5d280327!2m2!1d21.0231387!2d52.2137902!3e3){: .btn}
-
-
-
