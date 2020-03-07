@@ -23,4 +23,9 @@ https://pl.wikipedia.org/wiki/Tadeusz_Komorowski#/media/Plik:Tadeusz_Bor_Komorow
 
 
 
-[Sprawdź swoją wiedzę!](){: .btn}
+
+[Sprawdź swoją wiedzę!](https://forms.office.com/Pages/ResponsePage.aspx?id=Ho024XU55kyJPfw1H9RNzScZKaO9HzFHtouDeKG-zcpUMDc4NFVBS05JRk5LRlBXU09FQk5BT1cyRSQlQCN0PWcu){: .btn}
+
+_Quiz z nagrodami będzie wysłany na podany adres email_
+
+![dyplom](https://i.postimg.cc/QCgvHFkM/dyplom.jpg)

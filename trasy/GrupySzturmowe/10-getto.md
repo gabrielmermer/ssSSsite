@@ -48,3 +48,12 @@ natomiast ***21 sierpnia 1944*** Pawiak oraz sąsiadujące budynki zostały ***w
 W ocenie historyków ze 100 tys. osób, które przeszły przez Pawiak podczas okupacji, ***37 tys. straciło życie***. Kolejne 60 tys. wywieziono do obozów koncentracyjnych i obozów pracy
 
 ![Znalezione obrazy dla zapytania: Pawiak](https://www.polskiekrajobrazy.pl/images/stories/big/182911DSCN.JPG)
+
+
+
+[Sprawdź swoją wiedzę!](https://forms.office.com/Pages/ResponsePage.aspx?id=Ho024XU55kyJPfw1H9RNzScZKaO9HzFHtouDeKG-zcpUMDc4NFVBS05JRk5LRlBXU09FQk5BT1cyRSQlQCN0PWcu){: .btn}
+
+_Quiz z nagrodami będzie wysłany na podany adres email_
+
+![dyplom](https://i.postimg.cc/QCgvHFkM/dyplom.jpg)
+

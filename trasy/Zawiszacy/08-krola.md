@@ -32,6 +32,9 @@ Po wojnie do grupy absolwentów dołączyli m.in. historyk i członek PAN prof. 
 
 Obok wychowanków, ważną częścią historii Batorego są jego nauczyciele i dyrektorzy. Szkoła może pochwalić się, że w jej murach wykładali min. historycy Stanisław Arnold i Jan Żaryn, polonista Stanisław Młodożeniec, fizycy Stanisław Malec i Grażyna Lipińska, geografowie Gustaw Wuttke i Lechosław Domański, Tadeusz Grzebieniowski.
 
+[Sprawdź swoją wiedzę!](https://forms.office.com/Pages/ResponsePage.aspx?id=Ho024XU55kyJPfw1H9RNzScZKaO9HzFHtouDeKG-zcpUMDc4NFVBS05JRk5LRlBXU09FQk5BT1cyRSQlQCN0PWcu){: .btn}
 
+_Quiz z nagrodami będzie wysłany na podany adres email_
 
-[Sprawdź swoją wiedzę!](){: .btn}
+![dyplom](https://i.postimg.cc/QCgvHFkM/dyplom.jpg)
+
