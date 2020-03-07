@@ -53,7 +53,7 @@ czasie niemieckiego seansu w kinie Napoleon. 1 stycznia 1940 przeprowadzono akcj
 najbardziej znanym warszawskim lokalu – „Adrii” – rozpylając proszek powodujący 
 natychmiastowe wymioty.
 
-Aleksander Kamiński jakoszef Biura Informacji i PropagandyOkręgu WarszawaZwiązku 
+Aleksander Kamiński jako szef Biura Informacji i PropagandyOkręgu WarszawaZwiązku 
 Walki Zbrojnej, w grudniu 1940 stworzył strukturę, która nosiła nazwę Organizacja 
 Małego Sabotażu „Wawer”, na pamiątkę pierwszych masowych egzekucji, które miały 
 miejsce w Wawrze 27 grudnia 1939. Obejmowała ona zasięgiem swego działania 
