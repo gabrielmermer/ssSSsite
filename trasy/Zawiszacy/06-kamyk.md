@@ -44,11 +44,6 @@ Zmarł 15 marca 1978. Został pochowany na Cmentarzu Wojskowym na Powązkach w W
 22 lutego 2008 w Dniu Myśli Braterskiej, podczas uroczystości związanych z objęciem Honorowym Protektoratem 5 organizacji harcerskich, Prezydent RP Lech Kaczyński odznaczył pośmiertnie Aleksandra Kamińskiego Krzyżem Komandorskim Orderu Odrodzenia Polski.
 
 
+Następny adres: **Bagatela 10**
 
-Następny adres: **Pomnik Aleksandra Kamińskiego "Kamyka"**
-
-
-[Otwórz w Google Maps](https://www.google.com/maps/dir//Pomnik+Aleksandra+Kami%C5%84skiego+%22Kamyka%22,+Warsaw/@52.2105677,21.0251528,16z/data=!4m9!4m8!1m0!1m5!1m1!1s0x471ecd200ffb6227:0x136c9f7f27f13a55!2m2!1d21.028578!2d52.2114463!3e3){: .btn}
-
-
-
+[Otwórz w Google Maps](https://www.google.com/maps/dir//Bagatela+10,+00-585+Warszawa/@52.2137695,20.9530995,12z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x471ecce0bc46c809:0x143d65fd5d280327!2m2!1d21.0231387!2d52.2137902!3e3){: .btn}
