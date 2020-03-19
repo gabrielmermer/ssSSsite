@@ -23,4 +23,8 @@ eyJoaXN0b3J5IjpbLTE4OTIxNTQ1MjUsMTkzMTk4MzU5Nl19
 Następny adres: **Muzeum więzienia Pawiak, Dzielna 24/26**
 
 
+_Dla spacerowiczów wirtualnych:_
+Następny kod to: **getto**
+
+
 [Otwórz w Google Maps](https://www.google.com/maps/dir//Muzeum+wi%C4%99zienia+Pawiak,+Dzielna+24%2F26,+01-008+Warszawa/@52.2462683,20.9207273,12z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x471ecc7edb1c57ef:0xaa7a2b8c3c40fc05!2m2!1d20.9909383!2d52.2462891!3e2){: .btn}

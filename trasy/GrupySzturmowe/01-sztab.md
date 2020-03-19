@@ -28,3 +28,7 @@ dowodzonego przez **podpułkownika  Kazimierza Plutę-Czachowskiego.**
 **Latem 1943** KG AK rozbudowała „Basztę” do stanu pułku składającego się z trzech pełnych batalionów i oddziałów pomocniczych w sile około **2300 ludzi.**
 
 Większość żołnierzy pułku stanowili **harcerze z 14, 16 i 17** drużyn harcerskich **Szarych Szeregów** na Żoliborzu rekrutujących głównie na terenie **liceum i gimnazjum Im. Józefa Poniatowskiego.**
+
+
+_Dla spacerowiczów wirtualnych:_
+Następny kod to: **kanał**

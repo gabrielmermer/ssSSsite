@@ -29,6 +29,8 @@ Wywiad AK ustalił, że agentem, który aresztował "Wróbla", był funkcjonariu
 
 Następny adres: **Ligocka 3**
 
+_Dla spacerowiczów wirtualnych:_
+Następny kod to: **znaki**
 
 [Otwórz w Google Maps](https://www.google.com/maps/dir//Ligocka+3,+02-556+Warszawa/@52.2041173,21.0112519,17z/data=!4m17!1m7!3m6!1s0x471eccd09e24471f:0xb214bd083e07e77a!2sLigocka+3,+02-556+Warszawa!3b1!8m2!3d52.2041173!4d21.0112519!4m8!1m0!1m5!1m1!1s0x471eccd09e24471f:0xb214bd083e07e77a!2m2!1d21.0112519!2d52.2041173!3e3){: .btn}
 

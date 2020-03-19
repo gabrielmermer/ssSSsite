@@ -25,4 +25,7 @@ W czasie okupacji Baczyńskiemu udało się wydać cztery tomiki wierszy - w 194
 
 Następny adres: **Myśliwiecka 6**
 
+_Dla spacerowiczów wirtualnych:_
+Następny kod to: **krola**
+
 [Otwórz w Google Maps](https://www.google.com/maps/dir//My%C5%9Bliwiecka+6,+00-459+Warszawa/@52.2219551,21.0348004,17z/data=!4m17!1m7!3m6!1s0x471eccfd363a7fb7:0x4a07d81af9a0fad8!2sMy%C5%9Bliwiecka+6,+00-459+Warszawa!3b1!8m2!3d52.2220804!4d21.0342202!4m8!1m0!1m5!1m1!1s0x471eccfd363a7fb7:0x4a07d81af9a0fad8!2m2!1d21.0342202!2d52.2220804!3e2){: .btn}

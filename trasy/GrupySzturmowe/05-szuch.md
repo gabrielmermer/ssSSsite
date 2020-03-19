@@ -33,4 +33,7 @@ Trudno jest dokładnie ustalić liczbę ofiar gmachu w alei Szucha 25, większo�
 Następny adres: **Fryderyka Chopina 1**
 
 
+_Dla spacerowiczów wirtualnych:_
+Następny kod to: **franz**
+
 [Otwórz w Google Maps](https://www.google.com/maps/dir//52.2229128,+21.0241485/@52.2230464,21.0236653,19z/data=!4m7!4m6!1m0!1m3!2m2!1d21.0241485!2d52.2229128!3e2){: .btn}

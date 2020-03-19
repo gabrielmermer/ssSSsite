@@ -24,6 +24,10 @@ We wrześniu 1944 r. Powstańcza Poczta Harcerska, została wraz z całym person
 Następny adres: **Pomnik "Kamyka" w Łazienkach Królewskich**
 
 
+_Dla spacerowiczów wirtualnych:_
+Następny kod to: **kamyk**
+
+
 [Otwórz w Google Maps](https://www.google.com/maps/dir//Pomnik+Aleksandra+Kami%C5%84skiego+%22Kamyka%22,+00-594+Warszawa/@52.2114463,21.0263893,17z/data=!4m16!1m6!3m5!1s0x471ecd200ffb6227:0x136c9f7f27f13a55!2sPomnik+Aleksandra+Kami%C5%84skiego+%22Kamyka%22!8m2!3d52.2114463!4d21.028578!4m8!1m0!1m5!1m1!1s0x471ecd200ffb6227:0x136c9f7f27f13a55!2m2!1d21.028578!2d52.2114463!3e2){: .btn}
 
 

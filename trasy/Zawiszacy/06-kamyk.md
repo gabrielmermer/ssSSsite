@@ -46,6 +46,10 @@ Zmarł 15 marca 1978. Został pochowany na Cmentarzu Wojskowym na Powązkach w W
 
 Następny adres: **Bagatela 10**
 
+
+_Dla spacerowiczów wirtualnych:_
+Następny kod to: **poeta**
+
 **Jeżeli na punkcie nie znajdziesz tabliczki, wpisz hasło "poeta" kiedy dojdziesz na miejsce**
 
 [Otwórz w Google Maps](https://www.google.com/maps/dir//Bagatela+10,+00-585+Warszawa/@52.2137695,20.9530995,12z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x471ecce0bc46c809:0x143d65fd5d280327!2m2!1d21.0231387!2d52.2137902!3e3){: .btn}

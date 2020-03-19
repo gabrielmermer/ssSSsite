@@ -25,6 +25,9 @@ https://pl.wikipedia.org/wiki/Pomnik_Lotnika_w_Warszawie#/media/Plik:Plac_Unii_L
 Następny adres: **Filtrowa 68**
 
 
+_Dla spacerowiczów wirtualnych:_
+Następny kod to: **walka**
+
 [Otwórz w Google Maps](https://www.google.com/maps/dir//Filtrowa+68,+00-057+Warszawa/@52.2195629,20.9815006,16z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x471eccbd79aadd4f:0x9d72ffac5f337b3!2m2!1d20.985878!2d52.219563!3e3){: .btn}
 
 

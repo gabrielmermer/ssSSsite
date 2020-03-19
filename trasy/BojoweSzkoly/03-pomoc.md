@@ -26,6 +26,8 @@ Została pochowana na Powązkach Wojskowych w kwaterze batalionu "Parasol". Zost
 
 Następny adres: **Rakowiecka 37**
 
+_Dla spacerowiczów wirtualnych:_
+Następny kod to: **straż**
 
 [Otwórz w Google Maps](https://www.google.com/maps/dir//Mokot%C3%B3w+Prison,+Rakowiecka+37,+02-521+Warszawa/@52.2078908,21.0079883,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x471eccdb050f0fbd:0xc079e698c9d677fa!2m2!1d21.0109529!2d52.2075508!3e3){: .btn}
 

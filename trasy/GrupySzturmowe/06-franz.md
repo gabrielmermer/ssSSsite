@@ -49,4 +49,7 @@ Tak wyglądał pogrzeb Franza Kutschery.
 Następny adres: **Wilcza 44**
 
 
+_Dla spacerowiczów wirtualnych:_
+Następny kod to: **olimp**
+
 [Otwórz w Google Maps](https://www.google.com/maps/dir//Wilcza+44,+00-678+Warszawa/@52.2245334,21.0087813,16z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x471eccee7216fa57:0x467694cf5df183b6!2m2!1d21.0131694!2d52.2245335!3e2){: .btn}

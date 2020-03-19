@@ -19,4 +19,9 @@ eyJoaXN0b3J5IjpbMTA4MzgxODIzN119
 Następny adres: **Mokotowska 4**
 
 
+
+_Dla spacerowiczów wirtualnych:_
+Następny kod to: **Zośka**
+
+
 [Otwórz w Google Maps](https://www.google.com/maps/dir//Mokotowska+4,+00-641+Warszawa/@52.2180769,21.0126319,16z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x471ecce63b7c738b:0xa0e53660e7336b04!2m2!1d21.01702!2d52.218077!3e2){: .btn}

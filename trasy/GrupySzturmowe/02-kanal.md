@@ -24,4 +24,8 @@ Towarzysze Broni Pułku „Baszta””
 Następny adres: **Museum Sue Ryder, plac Unii Lubelskiej 2**
 
 
+
+_Dla spacerowiczów wirtualnych:_
+Następny kod to: **skraj**
+
 [Otwórz w Google Maps](https://www.google.com/maps/dir//Muzeum+Sue+Ryder,+plac+Unii+Lubelskiej,+Warsaw/@52.2132427,21.0214021,19z/data=!4m9!4m8!1m0!1m5!1m1!1s0x471eccde1d2711e9:0x543eb0a858be6af8!2m2!1d21.0217927!2d52.2131913!3e2){: .btn}
